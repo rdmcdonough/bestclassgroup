@@ -12,7 +12,81 @@ body {
     background-color: #d7e462;
     color:black;
   }
-  
+
+
+  .boxes{
+    display:flex;
+    justify-content: center;
+    border-style: dotted;
+    border-width: 100px;
+    padding: 10px;
+    margin: 20px;
+    flex: 0 0 300px;
+    border: 2px solid rgb(141, 78, 192);
+    border-radius: 75px;
+    box-shadow: 3px 3px 5px gray;
+    transform: rotate(180deg);
+  }
+
+
+
+  /* .Wilson { */
+    display:flex;
+    justify-content: center;
+    border-style: dotted;
+    border-width: 100px;
+    padding: 10px;
+    margin: 20px;
+    flex: 0 0 300px;
+    border: 2px solid rgb(141, 78, 192);
+    border-radius: 75px;
+    box-shadow: 3px 3px 5px gray;
+    transform: rotate(180deg);
+  }
+
+  /* .Bryan { */
+    display:flex;
+    justify-content: center;
+    border-style: dotted;
+    border-width: 100px;
+    padding: 10px;
+    margin: 20px;
+    flex: 0 0 300px;
+    border: 2px solid rgb(141, 78, 192);
+    border-radius: 75px;
+    box-shadow: 3px 3px 5px gray;
+    transform: rotate(180deg);
+  }
+
+  /* .Tim-Berners-Lee { */
+    display:flex;
+    justify-content: center;
+    border-style: dotted;
+    border-width: 100px;
+    padding: 10px;
+    margin: 20px;
+    flex: 0 0 300px;
+    border: 2px solid rgb(141, 78, 192);
+    border-radius: 75px;
+    box-shadow: 3px 3px 5px gray;
+    transform: rotate(180deg);
+  }
+
+  /* .Al-Gore { */
+    display:flex;
+    justify-content: center;
+    border-style: dotted;
+    border-width: 100px;
+    padding: 10px;
+    margin: 20px;
+    flex: 0 0 300px;
+    border: 2px solid rgb(141, 78, 192);
+    border-radius: 75px;
+    box-shadow: 3px 3px 5px gray;
+    transform: rotate(180deg);
+  }
+
+
   h1 {
     font-size: 200%;
   }
